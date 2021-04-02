@@ -1,6 +1,6 @@
 // Тестировалось на Arduino IDE 1.0.1
-#include <Adafruit_GFX.h>
-#include <Adafruit_PCD8544.h>
+#include <GFX.h>
+#include <PCD8544.h>
 
 // Подключение дисплея:
 // pin 3 - Serial clock out (SCLK)
