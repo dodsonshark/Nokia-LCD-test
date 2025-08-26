@@ -3,7 +3,7 @@
 #include <PCD8544.h>
 
 // Подключение дисплея:
-// pin 3 - Serial clock out (SCLK)
+// pin 3 - Serial clock out (SCLK) - вносим тестовые изменения
 // pin 4 - Serial data out (DIN)
 // pin 5 - Data/Command select (D/C)
 // pin 6 - LCD chip select (CS)
